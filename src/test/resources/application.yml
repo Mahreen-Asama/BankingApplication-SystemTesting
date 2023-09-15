@@ -1,0 +1,8 @@
+page.search:
+  url: http://localhost:8080/bankingapp/login
+#  txt-search.xpath: //*[@id="APjFqb"]
+#  btn-search.xpath: /html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1]
+  nav-home.xpath: //nav//ul/li[1]
+  nav-about.xpath: //nav//ul/li[3]
+  nav-contact.xpath: //nav//ul/li[4]
+  nav-accounts.xpath: //nav//ul/li[2]
